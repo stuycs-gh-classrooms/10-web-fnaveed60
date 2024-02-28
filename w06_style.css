@@ -1,0 +1,21 @@
+h1,
+h2 {
+color: pink;
+text-align: center
+font-family: “Times”
+}
+
+body {
+color: hotpink;
+}
+
+img {
+width: 75% px
+height: 75% px
+
+ol {
+border: dashed, pink
+
+li {
+font-size: 16 px
+font-weight: bold
